@@ -5,4 +5,4 @@ title: ''
 labels: 'technical capability'
 ---
 
-
+Enter here the technical capability description

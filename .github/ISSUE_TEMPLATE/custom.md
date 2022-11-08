@@ -1,10 +1,8 @@
 ---
-name: Custom issue template
+name: Technical capability
 about: Describe this issue template's purpose here.
 title: ''
-labels: ''
-assignees: ''
-
+labels: 'technical capability'
 ---
 
 
